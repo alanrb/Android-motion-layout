@@ -1,0 +1,35 @@
+{
+  "results": [
+    {
+      "user": {
+        "gender": "female",
+        "name": {
+          "title": "ms",
+          "first": "avery",
+          "last": "wright"
+        },
+        "location": {
+          "street": "3807 camden ave",
+          "city": "fayetteville",
+          "state": "illinois",
+          "zip": "60843"
+        },
+        "email": "avery.wright61@example.com",
+        "username": "blackgorilla919",
+        "password": "papito",
+        "salt": "0k9arcDg",
+        "md5": "8847b7a4bf523864d439f2440511a943",
+        "sha1": "c6fce72af036bb3a55037dbfc4aa46060c8c8c49",
+        "sha256": "2a547c6efe09c4134498398649edfd9c78a8b0f084c72ed6020fc63ad8bc4615",
+        "registered": "1358264167",
+        "dob": "361714905",
+        "phone": "(472)-157-5207",
+        "cell": "(573)-234-3349",
+        "SSN": "185-46-2073",
+        "picture": "http://api.randomuser.me/portraits/women/58.jpg"
+      },
+      "seed": "0a670ac8cf57f4f4",
+      "version": "0.4"
+    }
+  ]
+}

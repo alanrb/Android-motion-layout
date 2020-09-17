@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tinder</string>
+
+    <string name="lbl_favourites">Favourites</string>
+    <string name="lbl_view_favourite">View Favourite</string>
+    <string name="lbl_my_name">Hi, My name is</string>
+    <string name="lbl_my_address">My email address is</string>
+    <string name="lbl_my_birthday">My birthday is</string>
+    <string name="lbl_my_mobile">My phone number is</string>
+    <string name="lbl_my_password">My password is</string>
+    <string name="lbl_retry">Retry</string>
+</resources>
